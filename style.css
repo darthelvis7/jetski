@@ -126,6 +126,7 @@ body {
   height: 265px;
   background-color: black;
   text-align: center;
+  padding-bottom: 15px;
 }
 
 .info-logo {
@@ -239,6 +240,7 @@ body {
   display: flex;
   flex-direction: row;
   margin-left: 25px;
+  padding-top: 7px;
 }
 
 .dot {
